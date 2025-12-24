@@ -1,0 +1,11 @@
+﻿
+
+namespace SchoolManagementSystem.Domain.Enums
+{
+    public enum AttendanceStatus
+    {
+        Present = 0,
+        Absent = 1,
+        Late = 2
+    }
+}
